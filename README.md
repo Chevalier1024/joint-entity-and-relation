@@ -1,6 +1,11 @@
 # joint-entity-and-relation
 paper notes about joint extraction of entity and relation
 
+# dataset
+- [WebNLG](https://drive.google.com/open?id=1zISxYa-8ROe2Zv8iRc82jY9QsQrfY1Vj)
+- [CoNLL04](http://cogcomp.org/Data/ER/conll04.corp)
+- [DREC](https://github.com/bekou/multihead_joint_entity_relation_extraction/tree/master/data/DREC)
+- [NYT](https://github.com/gswycf/Joint-Extraction-of-Entities-and-Relations-Based-on-a-Novel-Tagging-Scheme)
 
 # 一、2014
 	Incremental Joint Extraction of Entity Mentions and Relations. ACL (1) 2014:
